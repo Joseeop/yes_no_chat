@@ -2,15 +2,47 @@
 
 A new Flutter project.
 
-## Getting Started
+Chat interactivo donde practicamos con el lenguaje de programación Dart. Algunas de las tecnologías y funcionalidades que aplicamos:
 
-This project is a starting point for a Flutter application.
+-TextEditingControllers
 
-A few resources to get you started if this is your first Flutter project:
+-Focus Nodes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-ThemeData
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Widgets como:
+
+  Containers
+
+  SizeBox
+
+  ListViews
+
+  CustomWidgets
+
+  Expanded
+
+  Padding
+
+  Image (desde internet)
+
+  ClipRRect (bordes redondeados)
+
+  Entre otros
+  ----------------------------
+
+-Gestores de estado
+
+-Mappers
+
+-Peticiones HTTP
+
+-Dio
+
+-Paquetes
+
+-Funciones que retornan valores como callbacks
+
+-Scroll
+
+-Provider

@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Yes No App',
         debugShowCheckedModeBanner: false,
+        //Modificando el selectColor puedes modificar el color de la app, hasta el número 6.
         theme : AppTheme(selectedColor: 5).theme(),
         home:  const ChatScreen()),
     );
